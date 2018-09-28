@@ -13,6 +13,9 @@ Jason Randall
 ## Project Description:
 Write 5 topics that I learned about version control and Git this week.
 
+## View Project:
+https://jbr16g.github.io/lesson3_VersionControl/
+
 ## Lessons Learned in the Assignment:
 1. Version control is a procedure for recording changes to a file or set of files over time so that you can view past versions later.
 2. A Version Control System (VCS) allows you to revert a file or set of files back to a previous state, compare changes over time, see who last modified something that might be causing a problem and when they did it (revision history), merge changes to the same file, and more.
